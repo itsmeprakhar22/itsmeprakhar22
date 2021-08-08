@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeprakhar22&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeprakhar22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeprakhar22" alt="itsmeprakhar22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=itsmeprakhar22" alt="itsmeprakhar22" /></a> </p>
 
 - 📫 Reach me@ **itsmeprakhar22@gmail.com**
 
